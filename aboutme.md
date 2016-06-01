@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mapitpk is a blog focusing on open source Geographic Information System(GIS) technology and development. Purpose is to document notes and summarizes various personal projects for future me. The author lives in Northwast corner of the US and is currently employed by King County Wastewater Treatment Division as GIS specialist. The content presented herein represents the opionion of the author and do not reflect those of his employer.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Live with two kids and wife who [illustrates childrens book](http://juliekimillustrations.com/)
+- I love biking to work during summer and snowboarding in winter
+- I love flying and learning about kites and quadcopters and their use of them in [GIS](https://www.sensefly.com/applications/gis.html)
+- Learn so much and met so many good friends from [CUGOS-local open source GIS group](http://cugos.org/)
+- Participate several meetups around mapping [Maptime Seattle](http://www.meetup.com/MaptimeSEA/), [OpenStreetMap Seattle](http://www.meetup.com/OpenStreetMap-Seattle/),[QGIS User Group](http://www.meetup.com/Puget-Sound-QGIS-Users-Group/)
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
